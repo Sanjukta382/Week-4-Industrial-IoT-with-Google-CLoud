@@ -1,4 +1,4 @@
-# Week-4-Industrial-IoT-with-Google-CLoud
+# Week-4-Industrial-IoT-with-Google-Cloud-Quiz
 Week 4
 
 Quiz 1: Pub/Sub
